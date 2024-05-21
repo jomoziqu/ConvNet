@@ -5,11 +5,11 @@ This project aims to implement a simple two-layer convolutional neural network (
 
 The CNN has five inputs (x1, ..., x5), four hidden nodes (z1, ..., z4), and one output (y). The hidden layer and output are computed using ReLU activations. The network is defined as follows:
 
-w1 = 1.2
-w2 = -0.2
-v1 = -0.3
-v2 = 0.6
-v3 = 1.3
+w1 = 1.2,
+w2 = -0.2,
+v1 = -0.3,
+v2 = 0.6,
+v3 = 1.3,
 v4 = -1.5
 
 ## Function Interface
